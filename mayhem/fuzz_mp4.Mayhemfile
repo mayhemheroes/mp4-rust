@@ -1,0 +1,5 @@
+project: mp4-rust
+target: fuzz-mp4
+
+cmds:
+    - cmd: /fuzz_mp4
